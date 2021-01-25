@@ -1,6 +1,6 @@
 # Examen-Big-Data
 En este repositorio se alojaran los datos del examen del dia 25/01/2021
-#MART DRAPE (CORTINA INTELIGENTE)
+### SMART DRAPE (CORTINA INTELIGENTE)
 
 Descripcion General 
 El propósito de este proyecto es de proteger tu casa al cerrarlas por completo para evitar el sol,
@@ -8,7 +8,7 @@ la lluvia o que los transeúntes vean dentro de tu hogar, mediante el uso de sen
 realizar todo eso de manera automática, para un hogar más cómodo
 
 
-#Las 5V del big data:
+### Las 5V del big data:
 
 ### 1.-Volumen: 
 En nuestro proyecto tendreos identificado el volumen en la gran cantidad de usuarios que estaran registrados
