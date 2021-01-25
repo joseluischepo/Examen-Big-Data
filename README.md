@@ -32,3 +32,8 @@ del clima donde estuviera alojado el producto.
 Como punto final de las 5 V en nuestro proyecto tendremos contemplado el valor de los datos en la parte que
 corresponde al monitoreo del clima y la oportnidad de poder brindarle al usuario una sugerencia en cuanto al 
 estado del clima, asi como poder maniuplar de manera automatica la cortina para evitar inundaciones dentro del hogar.
+
+###Integrantes:
+Juan Can 
+Jose Luis Carrillo 
+Jesus Leal
